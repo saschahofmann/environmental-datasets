@@ -1,4 +1,4 @@
-# environmental-datasets
+# Environmental datasets
 A collection of environment related datasets.
 
 ## Data collections
@@ -16,4 +16,4 @@ Similar to the World Bank Data. A big variety of information about different top
 ### [Data is plural newsletter](https://www.data-is-plural.com/)
 
 A collection of interesting, sometimes funny or curious datasets. Compiled by journalist Jeremy Singer-Vine. Definitely worth signing up for the newsletter.
-Spreadsheet with all editions [here](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+Spreadsheet with all editions [here](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).
